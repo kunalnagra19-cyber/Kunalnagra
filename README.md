@@ -35,14 +35,14 @@ Cybersecurity Analyst with 1+ year of hands-on IT & security experience. Improve
 <summary>🎓 Academic & Capstone</summary>
 
 - **Capstone SOC & Threat Hunting**  
-  - Investigated brute-force logins, MFA bypass, Kerberos ticket attacks in a hybrid cloud SOC lab.  
+  - Investigated brute-force logins, MFA bypass attacks in a hybrid cloud SOC lab.  
   - Automated incident response playbooks with Logic Apps to isolate hosts, disable accounts, and alert SOC.  
   - Reconstructed attack chains mapped to MITRE ATT&CK and Cyber Kill Chain.  
 
 - **Cybersecurity Home Lab**  
-  - Built segmented environment with Kali Linux, Windows, and Security Onion.  
+  - Built segmented environment with Kali Linux, Windows, and Ubuntu (Wazuh).  
   - Simulated real-world attacks using Metasploit, brute force, and port scanning.  
-  - Monitored and analyzed logs with ELK Stack and Wireshark for detection accuracy.  
+  - Monitored and analyzed logs with Wazuh SIEM and Wireshark for detection accuracy.  
 
 - **PKI Secure Transmission**  
   - Deployed TLS 1.3 and OpenSSL with custom x.509 certificates for encryption.  
@@ -63,11 +63,11 @@ Cybersecurity Analyst with 1+ year of hands-on IT & security experience. Improve
 
 <details>
 <summary>🛡 SOC Training & Labs</summary>
-
-- **TryHackMe SOC Labs (Top 10%)**  
-  - Completed 50+ SOC scenarios including phishing, malware, and privilege escalation.  
-  - Strengthened IR skills using Splunk, Wireshark, and Security Onion.  
-  - Reduced average incident resolution time by 40% through repeated practice.  
+  
+- **Azure Sentinel/Defender Lab**  
+  - Built KQL queries to detect lateral movement and suspicious identity activity.  
+  - Correlated logs from Defender for Identity and Microsoft Entra ID.  
+  - Created detection rules for advanced attacks like Golden Ticket Kerberos.  
 
 - **Incident Handling (CSA/ECIH)**  
   - Practiced structured incident response workflows across multiple scenarios.  
@@ -77,17 +77,12 @@ Cybersecurity Analyst with 1+ year of hands-on IT & security experience. Improve
 - **Suricata Rules Lab**  
   - Wrote custom IDS rules for TCP/UDP scanning and brute force attempts.  
   - Integrated Suricata with Wazuh to generate real-time alerts.  
-  - Validated detections against simulated adversary traffic.  
+  - Validated detections against simulated adversary traffic.
 
-- **Wazuh + Suricata IRP**  
-  - Deployed Wazuh Manager on Ubuntu and integrated with Suricata IDS/IPS.  
-  - Configured VMware static IPs to simulate enterprise network segmentation.  
-  - Designed and tested an Incident Response Plan for CSA271.com simulation.  
-
-- **Azure Sentinel/Defender Lab**  
-  - Built KQL queries to detect lateral movement and suspicious identity activity.  
-  - Correlated logs from Defender for Identity and Microsoft Entra ID.  
-  - Created detection rules for advanced attacks like Golden Ticket Kerberos.  
+- **TryHackMe SOC Labs (Top 10%)**  
+  - Completed 50+ SOC scenarios, including phishing, malware, and privilege escalation.  
+  - Strengthened IR skills using Splunk, Wireshark, and Security Onion.  
+  - Reduced average incident resolution time by 40% through repeated practice.  
 
 </details>
 
@@ -122,29 +117,15 @@ Cybersecurity Analyst with 1+ year of hands-on IT & security experience. Improve
 </details>
 
 <details>
-<summary>🤖 AI & Security Projects (Planned)</summary>
+<summary>🤖 AI & Security Projects (Planned)</summary>  
 
-- **AI-Powered MITRE ATT&CK Detection**  
-  - Build ML-driven log correlation system for adversary technique detection.  
-  - Train models on simulated SOC log datasets to identify anomalies.  
-  - Map detections directly to MITRE ATT&CK for SOC-ready alerts.  
-
-- **AI-Based Phishing Detection**  
+- **AI-Based Phishing Detection(in progress)**  
   - Train machine learning classifier to distinguish phishing vs. legitimate emails.  
   - Extract features from headers, URLs, and content for model accuracy.  
   - Deploy as a SOC tool to reduce manual email triage.  
 
 </details>
-
-
-
-## 📜 Certifications  
-
-![Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-EA3E30?style=for-the-badge&logo=comptia&logoColor=white)  
-![Splunk](https://img.shields.io/badge/-Splunk%20Fundamentals-000000?style=for-the-badge&logo=splunk)  
-![ISO27001](https://img.shields.io/badge/-ISO%2027001%20Awareness-2E7D32?style=for-the-badge)  
-![TCPS](https://img.shields.io/badge/-TCPS%202%3A%20CORE-blue?style=for-the-badge)  
-
+ 
 ---
 
 ## 📊 GitHub Stats  
@@ -160,7 +141,7 @@ Cybersecurity Analyst with 1+ year of hands-on IT & security experience. Improve
 ---
 
 ## 📫 Let’s Connect  
-📧 **Email:** Kunalnagra19@gmail.com  
+📧 **Email:** Kunalnagra190701@gmail.com  
 💼 [LinkedIn](http://www.linkedin.com/in/kunal-nagra-47017b285)  
 📝 [Medium Blog](https://medium.com/@kunalnagra19)  
 
